@@ -1,0 +1,51 @@
+ai:
+
+eps:
+
+svg:
+
+
+
+png:
+description:	format d'image non destructeur (pas de degradation de l'image)
+				gere mieux la transparence que gif
+				taille plus faible que gif
+
+utilisation: Images avec Transparence, Image destinees au Web, Images avec des tons de gris, Logos
+
+chiffres : format le plus repandu (grace aux photos)
+			reduction taille jusqu'a 15% sans de perte de qualite
+			16.7 millions de couleurs par image
+
+
+gif:
+description: Fichier contenant une succession d'images, qui composent l'animation
+			 autorise la transparence
+			 format adapte pour les images avec peu de couleurs
+
+utilisation: Boutons, Logos, Icones, Animations
+
+chiffres : 7x plus d'engagement qu'une video
+			1987 creation par CompuServe
+			taille faible
+			256 couleurs
+
+
+
+jpg:
+description:	format standard lisible tout PC
+				adapte aux photos ou il y a de fin degrades.
+				fichier legers, pas besoin de retouche.
+
+utilisation: Photos, Images Fixes, Photos riches en couleurs, Image Web
+
+chiffres : format le plus repandu (grace aux photos)
+			reduction taille jusqu'a 15% sans de perte de qualite
+			16.7 millions de couleurs par image
+
+
+tiff:
+
+raw:
+
+bmp:
