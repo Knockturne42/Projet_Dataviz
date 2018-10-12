@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Fonts used in this design;
 
 Font: Roboto, 
 Author: Christian Robertson, 
 Url: http://www.fontsquirrel.com/fonts/roboto; 
 
+=======
+Fonts used in this design;
+
+Font: Roboto, 
+Author: Christian Robertson, 
+Url: http://www.fontsquirrel.com/fonts/roboto; 
+
+>>>>>>> chris
