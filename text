@@ -3,19 +3,28 @@ ai:
 eps:
 
 svg:
+description:	 Facilement modifiable sans perte de qualite
+				Permet animations
+				modifiable avec CSS3
+
+utilisation: Shemas, Diagrammes, Cartes, Icones, Logos
+
+chiffres : 1998 creation par un groupe (Apple, Microsoft, IBM, ...)
+
+
 
 
 
 png:
 description:	format d'image non destructeur (pas de degradation de l'image)
 				gere mieux la transparence que gif
-				taille plus faible que gif
 
 utilisation: Images avec Transparence, Image destinees au Web, Images avec des tons de gris, Logos
 
 chiffres : format le plus repandu (grace aux photos)
 			reduction taille jusqu'a 15% sans de perte de qualite
 			16.7 millions de couleurs par image
+			1996 creation
 
 
 gif:
@@ -42,7 +51,7 @@ utilisation: Photos, Images Fixes, Photos riches en couleurs, Image Web
 chiffres : format le plus repandu (grace aux photos)
 			reduction taille jusqu'a 15% sans de perte de qualite
 			16.7 millions de couleurs par image
-
+			1992 norme officielle adoptee
 
 tiff:
 
