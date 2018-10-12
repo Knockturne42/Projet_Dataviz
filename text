@@ -1,6 +1,20 @@
 ai:
+description:	
+
+utilisation: 
+
+chiffres : 
+
+
 
 eps:
+description:	
+
+utilisation: 
+
+chiffres : 
+
+
 
 svg:
 description:	 Facilement modifiable sans perte de qualite
@@ -54,7 +68,26 @@ chiffres : format le plus repandu (grace aux photos)
 			1992 norme officielle adoptee
 
 tiff:
+description:	
+
+utilisation: 
+
+chiffres : 
+
+
 
 raw:
+description:	
+
+utilisation: 
+
+chiffres : 
+
+
 
 bmp:
+description:	
+
+utilisation: 
+
+chiffres : 
