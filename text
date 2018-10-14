@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 ai:
 description:	
-
+Plusieurs couches vectorielles et modifiables
 utilisation: 
 
 chiffres : 
@@ -10,7 +10,7 @@ chiffres :
 
 eps:
 description:	
-
+Conserve les attributs vectoriels d'un fichier
 utilisation: 
 
 chiffres : 
@@ -81,6 +81,8 @@ chiffres : 1986 creation par la compagnie Aldus
 raw:
 description:	
 
+"Brut" contient des données brutes de traitement et les infos de l'appareil qui l'a généré.
+
 utilisation: 
 
 chiffres : 
@@ -89,7 +91,16 @@ chiffres :
 
 bmp:
 description:	
+BitMaP
+les couleurs sont stockées en palette indexée afin d'être afficher sur tout périphérique. Fichier lourd.
+
 
 utilisation: 
 
 chiffres : 
+
+
+pdf:
+
+Vectoriel ou matriciel.
+il combine les deux mondes
